@@ -39,7 +39,6 @@ button {
     padding: 10px;
     background: #e3e3e3;
     border: unset;
-    /* При наведении на кнопки будет рука или палец*/
     cursor: pointer;
 }
 
